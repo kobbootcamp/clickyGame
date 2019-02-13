@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 This game can be found here: https://shielded-eyrie-48121.herokuapp.com/
 
 ## SEC Clicky Game
