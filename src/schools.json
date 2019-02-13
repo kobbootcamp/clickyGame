@@ -2,113 +2,81 @@
   {
     "id": 1,
     "name": "Florida",
-    "image": "./images/UF.jpg",
-    "occupation": "Fry Cook",
-    "location": "A Pineapple Under the Sea"
+    "image": "./images/UF.JPG"
   },
   {
     "id": 2,
     "name": "Auburn",
-    "image": "./images/Aub.jpg",
-    "occupation": "Restaurant Owner",
-    "location": "A Giant Anchor"
+    "image": "./images/Aub.JPG"
   },
   {
     "id": 3,
     "name": "Texas A&M",
-    "image": "./images/AM.jpg",
-    "occupation": "Cashier",
-    "location": "An Easter Island Head"
+    "image": "./images/AM.JPG"
   },
   {
     "id": 4,
     "name": "Arkansas",
-    "image": "./images/Ark.jpg",
-    "occupation": "Boy Genius",
-    "location": "A Secret Laboratory"
+    "image": "./images/Ark.JPG"
   },
   {
     "id": 5,
     "name": "Alabama",
-    "image": "./images/bama.jpg",
-    "occupation": "A Cowardly Dog",
-    "location": "Nowhere, Kansas"
+    "image": "./images/bama.JPG"
   },
   {
     "id": 6,
     "name": "South Carolina",
-    "image": "./images/Carolina.jpg",
-    "occupation": "Student",
-    "location": "Bluffington"
+    "image": "./images/Carolina.JPG"
   },
   {
     "id": 7,
     "name": "Georgia",
-    "image": "./images/georgia.jpg",
-    "occupation": "Looney Toon",
-    "location": "A Rabbit Burrow"
+    "image": "./images/georgia.JPG"
   },
   {
     "id": 8,
     "name": "Kentucky",
-    "image": "./images/Kentucky.jpg",
-    "occupation": "Ladies Man",
-    "location": "Aron City"
+    "image": "./images/Kentucky.JPG"
   },
   {
     "id": 9,
     "name": "LSU",
-    "image": "./images/LSU.jpg",
-    "occupation": "Adventurer",
-    "location": "California"
+    "image": "./images/LSU.JPG"
   },
   {
     "id": 10,
     "name": "Mississippi State",
-    "image": "./images/MissState.jpg",
-    "occupation": "Cashier",
-    "location": "O-Town, California"
+    "image": "./images/MissState.JPG"
   },
   {
     "id": 11,
     "name": "Missouri",
-    "image": "./images/Mizzou.jpg",
-    "occupation": "Superhero",
-    "location": "Earth"
+    "image": "./images/Mizzou.JPG"
   },
   {
     "id": 12,
     "name": "Ole Miss",
-    "image": "./images/olemiss.jpg",
-    "occupation": "Ahhhh! A Real Monster!",
-    "location": "Under a City Dump"
+    "image": "./images/olemiss.JPG"
   },
   {
     "id": 13,
     "name": "Tennessee",
-    "image": "./images/Tenn.jpg",
-    "occupation": "Ahhhh! A Real Monster!",
-    "location": "Under a City Dump"
+    "image": "./images/Tenn.JPG"
   },
   {
     "id": 14,
     "name": "Vandy",
-    "image": "./images/vandy.jpg",
-    "occupation": "Ahhhh! A Real Monster!",
-    "location": "Under a City Dump"
+    "image": "./images/vandy.JPG"
   },
   {
     "id": 15,
     "name": "SEC",
-    "image": "./images/sec_conference.jpg",
-    "occupation": "Ahhhh! A Real Monster!",
-    "location": "Under a City Dump"
+    "image": "./images/sec_conference.jpg"
   },
   {
     "id": 16,
     "name": "NCAA",
-    "image": "./images/NCAA_logo.svg.png",
-    "occupation": "Ahhhh! A Real Monster!",
-    "location": "Under a City Dump"
+    "image": "./images/NCAA_logo.svg.png"
   }
 ]
